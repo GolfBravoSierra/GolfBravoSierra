@@ -1,4 +1,7 @@
 <h1 align="center"> GolfBravoSierra  </h1>	
+ 
+ 
+ ![N|Solid](https://cdn.discordapp.com/attachments/812636275567099937/1017144066498105394/DALLE_2022-09-07_15.14.22_-_a_old_vw_beetle_parking_in_road_with_a_futuristic_cyberpunck_city_in_the_back_graound_.png)
 
 
 Um breve resumo sobre eu e o meu github:
@@ -9,11 +12,7 @@ Sobre meu GitHub tá bagunçado eu sei mas vou organizando ele conforme eu vou g
 
 
 ## :desktop_computer: Linguagems de programação que ja aprendi :floppy_disk:
-- `Funcionalidade 1`: Um Vetor que gera 1000 caracteres aletorios;
-- `Funcionalidade 2`: Ordenar esse vetor em uma Bubble Sort e uma Quick Sort;
-- `Funcionalidade 2`: Tirar a Média e a Mediana desses valores;
-- `Funcionalidade 3`: Mostrar o Maior e o Menor valor.
-## ✔️ Tecnologias utilizadas
-<img src="https://images.app.goo.gl/9kP52ud1osQHZbreA" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 
-![N|Solid](https://cdn.discordapp.com/attachments/812636275567099937/1017144066498105394/DALLE_2022-09-07_15.14.22_-_a_old_vw_beetle_parking_in_road_with_a_futuristic_cyberpunck_city_in_the_back_graound_.png)
+
+
