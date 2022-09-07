@@ -9,8 +9,8 @@ Sobre meu GitHub tá bagunçado eu sei mas vou organizando ele conforme eu vou g
 ## ▶️ Imformações sobre meu Perfil 📃
 <div align="center">
   <a href="https://github.com/GolfBravoSierra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GolfBravoSierra&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GolfBravoSierra&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GolfBravoSierra&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GolfBravoSierra&layout=compact&langs_count=7&theme=blue"/>
 </div>
 
 
