@@ -21,7 +21,7 @@ Sobre meu GitHub tá bagunçado eu sei mas vou organizando ele conforme eu vou g
   
 ## ▶️ Meios de Contaro 📬
   <a href = "mailto:giovanisantos.correio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://https://www.linkedin.com/in/giovani-bellini-0937b524b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/giovani-bellini-0937b524b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
 
