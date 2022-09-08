@@ -2,7 +2,7 @@
  
 ## ▶️Um breve resumo sobre eu e o meu github:
 
-Meu nome é Giovani, no momento em que escrevo tenho 18 anos, estou cursando engenharia da computação na PUC-Campinas e estou no segundo semestre do curso. Sou muito fascinado pelo mundo da computação e gosto de explorar e aprender sobre todas as funcionalidade e capacidades dos computadores. 
+Meu nome é Giovani estou cursando engenharia da computação na PUC-Campinas e estou no segundo semestre do curso. Sou muito fascinado pelo mundo da computação e gosto de explorar e aprender sobre todas as funcionalidade e capacidades dos computadores. 
 Sobre meu GitHub tá bagunçado eu sei mas vou organizando ele conforme eu vou ganhando experiência na área prometo, por enquanto tenho três repositórios o Xastre-Primeiro foi um trabalho que em grupo de minha faculdade que participei os outros dois são  simplesmente onde eu guardo os programas e anotações que eu faço na faculdade, fique a vontade para explorá los. 
 
 
@@ -23,4 +23,7 @@ Sobre meu GitHub tá bagunçado eu sei mas vou organizando ele conforme eu vou g
   <a href = "mailto:giovanisantos.correio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/giovani-bellini-0937b524b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
+ 
+ 
+ 
 
