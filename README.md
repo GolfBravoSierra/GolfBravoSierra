@@ -3,7 +3,7 @@
 ## ▶️About Me:
 My name is Giovani Bellini dos Santos;
 I'm studying computer engeneering on PUC campinas. Yes I'm from Brazil...
-and that is I realy don't what more to wirte so... feel free to look around I know is a mess but I will oganize is... mybe >:D
+and that is I realy don't what more to wirte so... feel free to look around I know is a mess but I will oganize it... maybe >:D
 
 ## ▶️ information about my profile 📃
 <div align="center">
