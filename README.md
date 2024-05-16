@@ -9,19 +9,18 @@ and that is I realy don't what more to wirte so... feel free to look around I kn
 <div align="center">
   <a href="https://github.com/GolfBravoSierra">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GolfBravoSierra&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GolfBravoSierra&layout=compact&langs_count=7&theme=blue"/>
-</div>
+
 
 
 ## ▶️ Programming languages ​​I've already learned :floppy_disk:
 <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">          
-  
+<img align="center" alt="java" height="30" width="40" src="file:///C:/Users/giova/OneDrive/Imagens/java-svgrepo-com.svg"> 
   
 ## ▶️ How to find me 📬
-  <a href = "mailto:giovanisantos.correio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/giovani-bellini-0937b524b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
+ <a href = "mailto:giovanibelliniemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/giovani-bellini-0937b524b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
  
  
  
