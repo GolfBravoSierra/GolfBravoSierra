@@ -7,7 +7,7 @@ and that is I realy don't what more to wirte so... feel free to look around I kn
 
 <div align="center">
   <a href="https://github.com/GolfBravoSierra">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Giovani BS&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GolfBravoSierra&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GolfBravoSierra&layout=compact&langs_count=7&theme=blue"/>
 </div>
 
