@@ -1,5 +1,5 @@
 # ▶ About Me:
-My name is Giovani Bellini dos Santos; I'm studying computer engeneering on PUC campinas. Yes I'm from Brazil... and that is I realy don't know what more to wirte so... feel free to look around I know is a mess but I will oganize it... maybe >:D
+My name is Giovani Bellini dos Santos; I'm studying computer engeneering on PUC campinas. Yes I'm from Brazil... and that is I really don't know what more to wirte so... feel free to look around I know is a mess but I will oganize it... maybe >:D
 
 
 ## 📫 Socials:
