@@ -3,7 +3,7 @@ My name is Giovani Bellini dos Santos; I'm studying computer engeneering on PUC 
 
 
 ## 📫 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/golfbravosierra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/giovani-bellini-0937b524b) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/golfbravosierra2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/giovani-bellini-0937b524b) 
 
 # 💻🛠 Tech Stack:
 I'm not an expert in all of these languages ​​or technologies, but I've seen them all
